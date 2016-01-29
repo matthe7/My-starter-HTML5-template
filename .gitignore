@@ -1,0 +1,4 @@
+node_modules/
+resources/components
+.idea/
+_ide_helper.php
